@@ -1,1 +1,1 @@
-console.log(module);
+console.log(___dirname, ___filename);
